@@ -17,13 +17,9 @@ get [imagenet-vgg-verydep-19.mat](https://pan.baidu.com/s/13PMasGCw6LDoa3r64oVIG
 get the [blur and sharp images](https://pan.baidu.com/s/1xGfIhglsZ_pAW-ZF5Q5L5g) 
 
 ## Training
-'''
-python train.py
-'''
+    python train.py
+
 ## Testing
 get [model](https://pan.baidu.com/s/1mBrHo5qXbP17cF_43-huug)
 
-'''
-python evaluate.py
-'''
-
+    python evaluate.py
